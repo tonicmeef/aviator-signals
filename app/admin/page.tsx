@@ -35,7 +35,7 @@ export default function AdminLoginPage() {
         <div className="text-center mb-8">
           <div className="font-display text-xs tracking-[0.4em] text-cyber-red/60 uppercase mb-2">⚠ RESTRICTED</div>
           <h1 className="font-display text-xl font-black text-white tracking-widest">ADMIN PANEL</h1>
-          <p className="text-white/30 text-xs font-mono mt-1">Lisconvastag Control Center</p>
+          <p className="text-white/30 text-xs font-mono mt-1">Tonic Control Center</p>
         </div>
 
         <div className="glass-card border border-cyber-red/15 rounded-xl p-6">
