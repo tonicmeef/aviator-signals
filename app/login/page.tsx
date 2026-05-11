@@ -52,7 +52,7 @@ export default function LoginPage() {
       setBooting(true); setLoading(false)
 
       const lines = [
-        '> LISCONVASTAG_CORE_v26.5 INITIALIZING…',
+        '> TONIC_CORE_v26.5 INITIALIZING…',
         `> CONNECTOR: ${name.toUpperCase()}`,
         '> SIGNAL ENGINE: LOADING…',
         '> ROUND TRACKER: ONLINE',
@@ -171,7 +171,7 @@ export default function LoginPage() {
         </div>
 
         <p className="text-center text-white/15 text-xs mt-6 font-mono">
-          LISCONVASTAG © 2024 — PREMIUM SIGNAL PLATFORM
+          TONIC © 2026 — PREMIUM SIGNAL PLATFORM
         </p>
       </div>
     </div>
