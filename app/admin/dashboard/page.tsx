@@ -56,7 +56,7 @@ export default function AdminDashboard() {
       {/* Sidebar */}
       <aside className="w-56 border-r border-white/5 bg-cyber-card/50 flex flex-col sticky top-0 h-screen">
         <div className="p-5 border-b border-white/5">
-          <div className="font-display text-sm font-black text-cyber-cyan glow-cyan tracking-wider">LISCONVASTAG</div>
+          <div className="font-display text-sm font-black text-cyber-cyan glow-cyan tracking-wider">TONIC</div>
           <div className="text-white/30 text-xs font-mono mt-0.5">Admin Control</div>
         </div>
         <nav className="flex-1 p-3 space-y-1">
