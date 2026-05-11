@@ -206,7 +206,7 @@ export default function SignalsPage() {
         <div className="max-w-lg mx-auto px-4 py-3 flex items-center justify-between">
           <div>
             <div className="font-display text-xs font-black text-cyber-cyan tracking-widest" style={{ fontFamily: 'Orbitron, monospace', textShadow: '0 0 12px #00e5ff' }}>
-              LISCONVASTAG
+              TONIC
             </div>
             <div className="text-white/30 text-xs font-mono">Aviator Signals</div>
           </div>
