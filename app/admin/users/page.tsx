@@ -5,9 +5,9 @@ import Link from 'next/link'
 
 // In production, these would come from a DB. For now, .env config.
 const DEMO_KEYS = [
-  { id: '1', key: 'SIGNAL2024', siteUrl: 'all', label: 'Default Key', active: true },
-  { id: '2', key: 'AVIATOR01', siteUrl: 'all', label: 'Key 2', active: true },
-  { id: '3', key: 'LISCKEY99', siteUrl: 'all', label: 'Key 3', active: true },
+  { id: '1', key: 'SIGNAL2026', siteUrl: 'all', label: 'Default Key', active: true },
+  { id: '2', key: 'AVIATOR1', siteUrl: 'all', label: 'Key 2', active: true },
+  { id: '3', key: 'PREMIUM1', siteUrl: 'all', label: 'Key 3', active: true },
 ]
 
 export default function AdminUsersPage() {
@@ -24,7 +24,7 @@ export default function AdminUsersPage() {
     <div className="min-h-screen bg-cyber-bg flex">
       <aside className="w-56 border-r border-white/5 bg-cyber-card/50 p-3 sticky top-0 h-screen">
         <div className="p-2 mb-4">
-          <div className="font-display text-sm font-black text-cyber-cyan tracking-wider">LISCONVASTAG</div>
+          <div className="font-display text-sm font-black text-cyber-cyan tracking-wider">TONIC</div>
         </div>
         {[
           { href: '/admin/dashboard', label: '◈ Dashboard' },
