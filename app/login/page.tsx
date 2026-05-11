@@ -100,7 +100,7 @@ export default function LoginPage() {
             <div className="w-2 h-2 rounded-full bg-cyber-cyan status-pulse" />
           </div>
           <h1 className="text-2xl font-black text-white tracking-wider mb-1" style={{ fontFamily: 'Orbitron, monospace', textShadow: '0 0 12px #00e5ff, 0 0 24px rgba(0,229,255,0.4)' }}>
-            LISCONVASTAG
+            TONIC
           </h1>
           <p className="text-xs text-cyber-cyan/50 tracking-[0.4em] uppercase font-mono">Aviator Signals</p>
         </div>
