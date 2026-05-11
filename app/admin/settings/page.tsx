@@ -7,7 +7,7 @@ export default function AdminSettingsPage() {
     <div className="min-h-screen bg-cyber-bg flex">
       <aside className="w-56 border-r border-white/5 bg-cyber-card/50 p-3 sticky top-0 h-screen">
         <div className="p-2 mb-4">
-          <div className="font-display text-sm font-black text-cyber-cyan tracking-wider">LISCONVASTAG</div>
+          <div className="font-display text-sm font-black text-cyber-cyan tracking-wider">TONIC</div>
         </div>
         {[
           { href: '/admin/dashboard', label: '◈ Dashboard' },
